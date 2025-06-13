@@ -6,7 +6,6 @@ def bubbleSort(arr):
     return arr
 
 arr = [5, 4, 3, 2, 1]
-# Printing the sorted array
 print(bubbleSort(arr))
 
 
